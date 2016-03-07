@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  color: black;
+}
+
+.menu_section_content{
+  background-color: grey;
+  margin-bottom : 20px;
+  padding: 10px;
+  color: black;
+}
+.head_nav_section {
+    background-color: grey;
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand{
+  color: black;
+}
+
+.navbar-dropdown-sec{
+  background-color: white;
+}
+.nav .navbar-nav li{
+  background-color: white;
+}
+
+.nav .nav-divider {
+  background-color: black;
+}  
+
+.navbar-nav {
+    margin: 0px -15px;
+}
